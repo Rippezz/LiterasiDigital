@@ -1,6 +1,6 @@
 # LiterasiDigital
 
-1. Pertama saya membuat sebuah repository pada github dengan nama github_workflow.
+1. Pertama saya membuat sebuah repository pada github dengan nama LiterasiDigital.
 2. Selanjutnya, dilakukan clonning pada local dengan menggunakan gitbash dengan menggunakan perintah
 git clone https://github.com/Rippezz/LiterasiDigital.git
 3. Langkah selanjutnya masuk pada direktori hasil clone tersebut dengan perintah cd LiterasiDigital
